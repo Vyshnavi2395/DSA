@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Vyshnavi2395/DSA/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vyshnavi2395/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vyshnavi2395/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Vyshnavi2395/DSA/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Vyshnavi2395/DSA/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
